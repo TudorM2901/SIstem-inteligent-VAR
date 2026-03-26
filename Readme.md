@@ -3,7 +3,8 @@ Sistem Inteligent pentru Analiza Fază VAR în Fotbal
 Descriere generală
 Acest proiect dezvoltă un sistem inteligent capabil să analizeze faze controversate din fotbal (faulturi, offside, henț etc.) folosind tehnici de procesare video și învățare automată. Scopul este de a sprijini procesul decizional VAR prin identificarea automată a unor evenimente relevante.
 
- Sursa datelor
+Sursa datelor
+
 Setul de date utilizat provine de pe Kaggle:
 
 Link: https://www.kaggle.com/datasets/sauravjoshi23/fifa-video-assistant-referees-var  
