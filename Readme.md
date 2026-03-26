@@ -11,6 +11,7 @@ Link: https://www.kaggle.com/datasets/sauravjoshi23/fifa-video-assistant-referee
 Acest dataset conține clipuri video etichetate cu diverse evenimente din fotbal (faulturi, goluri, pase, tackling etc.), utile pentru antrenarea unui model de clasificare video.
 
 Obiectivul proiectului
+
 Obiectivul principal este:
 
 Să clasific automat fazele dintr-un meci de fotbal pentru a identifica evenimente relevante pentru analiza VAR, precum:
